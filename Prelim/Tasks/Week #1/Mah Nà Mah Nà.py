@@ -11,7 +11,7 @@ while len(requiredInputs) > count:
     # Check to make sure the user has sung the correct lyrics
     if requiredInputs[count] != input("mahna mahna? ").lower():
         # Send them a shaking head message, why u do dis
-        print("[Head shake]")
+        print(":faceplam:")
     # Increase our input count
     count += 1
 
